@@ -1,0 +1,1396 @@
+{
+  "users": {
+    "554796146896@s.whatsapp.net": {
+      "nome": "༄𝑴𝒐𝒐𝒏༄",
+      "level": 1,
+      "xp": 100,
+      "gold": 2307,
+      "hp": 98,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [
+        "5527998126061@s.whatsapp.net"
+      ],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 1785020996100
+      },
+      "last_active": 1785021215960
+    },
+    "559391423261@s.whatsapp.net": {
+      "nome": "jpzinh #DevWorldBR",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785020934805
+    },
+    "559784280876@s.whatsapp.net": {
+      "nome": "Ramires Kited",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "28/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785020962877
+    },
+    "559885655200@s.whatsapp.net": {
+      "nome": "Anthony",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785021244167
+    },
+    "553172461221@s.whatsapp.net": {
+      "nome": "𝓔o 𝓑enjamin ☆",
+      "level": 1,
+      "xp": 100,
+      "gold": 15,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "26/07/2026",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 5,
+      "minerar_data": "26/07/2026",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 1,
+      "last_roubo_date": "30/07/2026",
+      "lista_agressores": [
+        "5527998126061@s.whatsapp.net"
+      ],
+      "ferramentas": {
+        "picareta": {
+          "tipo": "madeira",
+          "usos": 15
+        },
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785021354778
+    },
+    "5527998126061@s.whatsapp.net": {
+      "nome": "𝐾𝐼𝑁𝐸",
+      "level": 1,
+      "xp": 100,
+      "gold": 148,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "26/07/2026",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 5,
+      "minerar_data": "30/07/2026",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 3,
+      "last_roubo_date": "26/07/2026",
+      "lista_agressores": [
+        "553172461221@s.whatsapp.net"
+      ],
+      "ferramentas": {
+        "picareta": {
+          "tipo": "madeira",
+          "usos": 15
+        },
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785021563194
+    },
+    "56922583601@s.whatsapp.net": {
+      "nome": "¿ 𝒥𝑜𝓀𝑒𝓇 ?",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "30/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785022481818
+    },
+    "5511954601208@s.whatsapp.net": {
+      "nome": "YutaBot-MD Oficial",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785022781016
+    },
+    "5521976815813@s.whatsapp.net": {
+      "nome": "ㅤＴｏＸｉｃᵏꝰᩤ",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785040565397
+    },
+    "5519994212138@s.whatsapp.net": {
+      "nome": "Foxy",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785068532089
+    },
+    "559183721035@s.whatsapp.net": {
+      "nome": "Nkkkj",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785070354232
+    },
+    "558120117048@s.whatsapp.net": {
+      "nome": "Toddy",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785070355625
+    },
+    "5521976524226@s.whatsapp.net": {
+      "nome": "Juice",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785070450495
+    },
+    "556791954044@s.whatsapp.net": {
+      "nome": "Jvs  🩸",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785070451539
+    },
+    "5518910000025@s.whatsapp.net": {
+      "nome": "Real",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "29/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785070595629
+    },
+    "573216694526@s.whatsapp.net": {
+      "nome": "𝕻𝖊𝖘𝖆𝖉𝖎𝖑𝖑𝖆",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "26/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785073142745
+    },
+    "557598831334@s.whatsapp.net": {
+      "nome": "Erick",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "26/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785080207669
+    },
+    "5511951455140@s.whatsapp.net": {
+      "nome": "𝕷𝖑𝖊𝖜𝖝𝖆𝖒",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785085464174
+    },
+    "553193661920@s.whatsapp.net": {
+      "nome": "mariusca",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785097275183
+    },
+    "5511975431163@s.whatsapp.net": {
+      "nome": "ı.am dylan Akemi",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785108072283
+    },
+    "5516988329118@s.whatsapp.net": {
+      "nome": "Zenelleske Wishe",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785166795194
+    },
+    "559681236579@s.whatsapp.net": {
+      "nome": "Crician",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785253815503
+    },
+    "559784363244@s.whatsapp.net": {
+      "nome": "ernan d'zuck",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785263446461
+    },
+    "556798456460@s.whatsapp.net": {
+      "nome": "ı.ms/ᘉOT </>",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785280708570
+    },
+    "553197940621@s.whatsapp.net": {
+      "nome": "Carlos J.",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "29/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785285780556
+    },
+    "554797227278@s.whatsapp.net": {
+      "nome": "Moon System",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "31/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785287478590
+    },
+    "556181370356@s.whatsapp.net": {
+      "nome": "Karla",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "29/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785343400808
+    },
+    "555189466813@s.whatsapp.net": {
+      "nome": "♡☆●yas●☆♡",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "29/07/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785351482627
+    },
+    "558897148015@s.whatsapp.net": {
+      "nome": "꧁Ls꧂",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785532505845
+    },
+    "559292678251@s.whatsapp.net": {
+      "nome": "Sz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbyte.",
+      "level": 1,
+      "xp": 100,
+      "gold": 200,
+      "hp": 100,
+      "maxHp": 100,
+      "atk": 10,
+      "def": 10,
+      "bebado": 0,
+      "compras_bebida": 0,
+      "compras_poção": 0,
+      "ultima_compra_data": "",
+      "last_daily_msg": "01/08/2026",
+      "missao_dia": "",
+      "minerar_tentativas": 0,
+      "minerar_data": "",
+      "capinar_tentativas": 0,
+      "capinar_data": "",
+      "roubos_hoje": 0,
+      "last_roubo_date": "",
+      "lista_agressores": [],
+      "ferramentas": {
+        "picareta": null,
+        "enxada": null,
+        "espada": null
+      },
+      "inventario": {
+        "bebida": 0,
+        "escudo": 0,
+        "poção": 0,
+        "carro": 0
+      },
+      "relacionamento": {
+        "parceiro": null,
+        "status": "solteiro",
+        "xp_bonus": 1,
+        "pai": null,
+        "mae": null,
+        "filhos": []
+      },
+      "cooldowns": {
+        "trabalhar": 0
+      },
+      "last_active": 1785547840907
+    }
+  }
+}

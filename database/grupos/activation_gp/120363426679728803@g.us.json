@@ -1,0 +1,80 @@
+[
+  {
+    "name": "✨ 𝐌𝐨𝐨𝐧 𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐲 𝐂𝐡𝐚𝐭",
+    "groupId": "120363426679728803@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antilinkD": false,
+    "antidelete": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "+"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "usentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "antiflood": {
+      "status": false,
+      "maxMensagem": 10,
+      "intervalo": 10
+    },
+    "welcome": {
+      "ativo": true,
+      "entrar": {
+        "texto": "Olá #numerodele#, seja bem vindo(a) ao Grupo: *#nomedogp#*, Shizuku lhe deseja as boas vindas 🕸️",
+        "tipo": "imagem",
+        "fundo": "https://uploads.shizukuapis.space/31c0fa7a.png",
+        "arquivo": ""
+      },
+      "sair": {
+        "texto": "Adeus, #numerodele#, espero que não se arrependa pela sua decisão.",
+        "tipo": "imagem",
+        "fundo": "https://uploads.shizukuapis.space/c4647df2.png",
+        "arquivo": ""
+      }
+    },
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false,
+    "autoDownload": false,
+    "antimencao": false,
+    "modoRpg": false,
+    "modobn": false
+  }
+]

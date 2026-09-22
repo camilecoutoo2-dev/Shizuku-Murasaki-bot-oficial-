@@ -1,0 +1,81 @@
+[
+  {
+    "name": "ஓீ͜💛 𝚅𝙰𝙻𝙷𝙰𝙻𝙻𝙰 𝙶𝙿 ஓீ͜💛",
+    "groupId": "120363411811852885@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antilinkD": false,
+    "antidelete": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "+"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "usentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "antiflood": {
+      "status": false,
+      "maxMensagem": 10,
+      "intervalo": 10
+    },
+    "welcome": {
+      "ativo": false,
+      "fundo_api": true,
+      "entrar": {
+        "texto": "Olá #numerodele#, seja bem vindo(a) ao Grupo: *#nomedogp#*, Shizuku lhe deseja as boas vindas 🕸️",
+        "tipo": "imagem",
+        "fundo": "https://shizukuapis.space/uploads/8ab4cfbd.jpeg",
+        "arquivo": ""
+      },
+      "sair": {
+        "texto": "Adeus, #numerodele#, espero que não se arrependa pela sua decisão.",
+        "tipo": "imagem",
+        "fundo": "https://shizukuapis.space/uploads/8ab4cfbd.jpeg",
+        "arquivo": ""
+      }
+    },
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false,
+    "autoDownload": false,
+    "antimencao": false,
+    "modoRpg": false,
+    "modobn": false
+  }
+]

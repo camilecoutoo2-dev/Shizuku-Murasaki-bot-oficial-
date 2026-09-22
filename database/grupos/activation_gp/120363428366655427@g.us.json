@@ -1,0 +1,85 @@
+[
+  {
+    "name": "✨ 『𝘾𝙝𝙖𝙩 𝙙𝙖 𝘼𝙣𝙣𝙖𝙡𝙪』 ✨",
+    "groupId": "120363428366655427@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": true,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antilinkD": false,
+    "antidelete": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": true,
+    "listanegra": [
+      "557499473407@s.whatsapp.net",
+      "21920464602@s.whatsapp.net",
+      "8196388232@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "+"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "usentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "antiflood": {
+      "status": true,
+      "maxMensagem": 5,
+      "intervalo": 10
+    },
+    "welcome": {
+      "ativo": true,
+      "entrar": {
+        "texto": "⚠️ 𝐀𝐎 𝐄𝐍𝐓𝐑𝐀𝐑: #numerodele# 📸 Se apresente com: • Nome\n• Idade\n• Foto (DE ROSTO OBRIGATÓRIO) *VISUALIZAÇÃO ÚNICA*",
+        "tipo": "imagem",
+        "fundo": "https://shizukuapis.space/uploads/12cd48b3.jpeg",
+        "arquivo": ""
+      },
+      "sair": {
+        "texto": "Adeus, #numerodele#, espero que não se arrependa pela sua decisão.",
+        "tipo": "texto",
+        "fundo": "",
+        "arquivo": ""
+      },
+      "fundo_api": false
+    },
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false,
+    "autoDownload": false,
+    "antimencao": true,
+    "modoRpg": false,
+    "modobn": true
+  }
+]

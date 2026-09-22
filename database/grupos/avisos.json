@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "12:00",
+    "PUXAR": [
+      {
+        "idgp": "120363404636047287@g.us",
+        "msg": "boa noite",
+        "avisou": false
+      }
+    ]
+  },
+  {
+    "hora": "*segue essa bosseta aqui*\n\n`https://whatsapp.com/channel/0029VbBOQI7F1YlYIXIwbd37`",
+    "PUXAR": [
+      {
+        "idgp": "120363422962990654@g.us",
+        "avisou": false
+      }
+    ]
+  },
+  {
+    "hora": "12:00 ",
+    "PUXAR": [
+      {
+        "idgp": "120363422962990654@g.us",
+        "msg": "*segue essa bosseta aqui*\n\n`https://whatsapp.com/channel/0029VbBOQI7F1YlYIXIwbd37`",
+        "avisou": false
+      }
+    ]
+  }
+]
